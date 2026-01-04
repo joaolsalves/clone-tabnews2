@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Carla, eu amo você. Se você me ama, dê uma risadinha!!!</h1>;
+  return <h1>Teste de publicação na Vercel!!!</h1>;
 }
 
 function Teste() {

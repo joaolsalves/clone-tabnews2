@@ -1,1 +1,9 @@
 teste 123
+
+Passos para atualizar o site
+
+1-
+git commit -m "Mensagem do commit"
+
+2-
+git push origin main
